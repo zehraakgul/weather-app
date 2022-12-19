@@ -1,0 +1,27 @@
+***************
+Kısa Sınav 1, Vize, Kısa Sınav 2 ve Ödev
+Grup Üyeleri:
+Zehra Akgül - 1190505069
+Metin Birikim Karaçay - 1190505021
+Amine Hatun Ergin - 1190505060
+Melike Sağır - 1190505019
+Simge Terzioğlu - 1190505072
+****************
+Hava durumu api'sini kullanarak vue.js uygulaması yaptık.
+Özellikleri; 
+•	7 günlük hava durumu bilgisini verir. (5 günden 7 güne çıkarttık.)
+•	Bulunduğumuz saatten itibaren önümüzdeki 24 saatin hava durumu bilgisini belirli aralıklarla gösterir.
+•	Hava durumuna uygun simgeler gösterir. Hava durumuna göre arkaplan değişir.
+	(Resimlerden ziyade sitenin akışını bozmamak adına sıcaklığa göre değişen gradyen arkaplan koymayı tercih ettik.)
+Yukarıdaki özelliklere ek olarak anasayfada liste halinde kullanıcının ekleyeceği şehirlerin hava durumu bilgisini de
+görüntüleyebilmesini sağladık.
+
+Uygulamamızı çalıştırırken: 
+VS code ortamında hazırladık. Volar ve TypeScript Vue Plugin(Volar) eklentilerini kullandık.
+(Vetur'u devre dışı bırakmalısınız.)
+Projeyi klasör olarak açtıktan sonra terminalde sırasıyla şu komutları kullanmanız yeterli:
+
+1- npm install (ilk çalıştırmadan önce)
+2- npm run dev
+
+bu komutlardan sonra projemiz terminalde belirlenen adreste açılmış olmalı.
